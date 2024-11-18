@@ -16,7 +16,7 @@
     CSS
   
 
-### 🥕 Operating Systems: 
+### Operating Systems: 
     Windows,
     MacOS
     
