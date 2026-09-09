@@ -55,36 +55,7 @@ fun_fact: "I turn ☕ into 💻"
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alpatiwari&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpatiwari&layout=compact&theme=radical&hide_border=true" width="35%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpatiwari&theme=radical&hide_border=true" width="70%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpatiwari&theme=redical&hide_border=true&bg_color=0d1117" width="90%" alt="activity graph"/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Alpatiwari/Alpatiwari/output/github-contribution-grid-snake-dark.svg" width="90%" alt="snake animation"/>
-
-<sub>✨ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the workflow below to make this animate automatically</sub>
-
-</div>
-
-<br/>
 
 ## 🌐 Connect With Me
 
